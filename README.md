@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vilashturkane
-- 👀 I’m interested in ... blobkchain
+- 👀 I’m interested in ... blockchain
 - 🌱 I’m currently learning ... rust , web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
