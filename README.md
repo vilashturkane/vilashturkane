@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vilas Turkane!
+# 👋 Hi there, I'm Vilash Turkane!
 
 I'm a passionate developer from Bhopal, India 🇮🇳, exploring the realms of Rust, C, and collaborative development. Currently, I'm working on a CLI-based calculator project with my friends, utilizing Git and GitHub for effective collaboration.
 
