@@ -31,8 +31,8 @@ I'm a passionate developer from Bhopal, India 🇮🇳, exploring the realms of 
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [vilashturkane@gmail.com](mailto:vilashturkane@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vilashturkane](https://www.linkedin.com/in/vilash-turkane-9a040b302/)
 
 ---
 
