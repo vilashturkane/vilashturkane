@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @vilashturkane
-- 👀 I’m interested in ... blockchain
-- 🌱 I’m currently learning ... rust , web3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there, I'm Vilas Turkane!
 
-<!---
-vilashturkane/vilashturkane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer from Bhopal, India 🇮🇳, exploring the realms of Rust, C, and collaborative development. Currently, I'm working on a CLI-based calculator project with my friends, utilizing Git and GitHub for effective collaboration.
+
+---
+
+## 🚀 Projects
+
+- 🔢 [Rust Calculator](https://github.com/vilashturkane/rust-calculator): A collaborative CLI calculator built in Rust, featuring addition, subtraction, multiplication, and division functionalities.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: Rust, C, Python
+- **Tools**: Git, GitHub, VS Code, Linux
+
+---
+
+## 📊 GitHub Stats
+
+![Vilas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilashturkane&show_icons=true&theme=radical)
+
+---
+
+## 📈 Most Used Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilashturkane&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+*Feel free to explore my repositories and connect with me for collaboration or discussion!*
